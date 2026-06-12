@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safa Sayed - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Safa Sayed</h1>
+    <p>Computer Science Engineering Student</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        I am a Computer Science Engineering student with an interest in
+        programming and technology. I enjoy learning new concepts,
+        solving problems, and building academic projects. Through my
+        coursework and practical projects, I continuously work on
+        improving my technical and analytical skills.
+    </p>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <ul>
+        <li>B.Tech in Computer Science Engineering</li>
+        <li>REVA University</li>
+        <li>First Semester SGPA: 9.8</li>
+        <li>PUC Board Examination Score: 95%</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>C Programming</li>
+        <li>Python Basics</li>
+        <li>Git & GitHub</li>
+        <li>Problem Solving</li>
+        <li>Data Structures Basics</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Academic Project</h2>
+
+    <div class="card">
+        <h3>2D Graphics Editor</h3>
+        <p>
+            Developed a menu-driven 2D Graphics Editor using C Programming.
+            The project supports creating, modifying, deleting, listing,
+            and managing graphical objects through an interactive interface.
+        </p>
+    </div>
+
+</section>
+
+<section>
+    <h2>Contact Information</h2>
+    <p>GitHub: github.com/safasayed350</p>
+    <p>Email: safa@example.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Safa Sayed</p>
+</footer>
+
+</body>
+</html>
