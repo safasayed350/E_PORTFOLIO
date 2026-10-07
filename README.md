@@ -1,12 +1,19 @@
-# E-Portfolio.
+# E-Portfolio
 
 Name: Safa Sayed
 
-Course: B.Tech Computer Science Engineering
+Course: B.Tech Computer Science and Engineering
 
 University: REVA University
 
-This repository contains my personal academic portfolio website developed using HTML and CSS.
+Semester: 3rd Semester
 
-Academic Project:
-- 2D Graphics Editor using C Programming
+This repository contains my personal academic portfolio showcasing my
+technical learning, projects, coding practice, and skills.
+
+## Technical Work
+
+- Git and GitHub
+- LeetCode problem-solving
+- Programming and software development
+- Academic and personal projects
